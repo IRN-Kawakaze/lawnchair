@@ -278,7 +278,7 @@ android {
         }
 
         github {
-            applicationId 'app.lawnchair'
+            applicationId 'app.lawnchair.github'
             dimension "channel"
         }
 
